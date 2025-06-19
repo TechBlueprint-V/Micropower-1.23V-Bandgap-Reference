@@ -1,0 +1,138 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+
+#
+#Component attribute text strings
+#
+
+# CMP 0
+CMP 7 11.87500038 28.70000102 270 N J2 593 ;0=2,1=0.5000
+PRP Body_Material 'Steel'
+PRP Body_Plating 'Tin'
+PRP Connector_Type 'Snap in'
+PRP Contact_Material 'Steel'
+PRP Contact_Plating 'Nickel'
+PRP Contact_Type 'Snap-In'
+PRP Gender 'Male'
+PRP Lead_Free 'Lead Free'
+PRP Length '9.65mm'
+PRP Material 'Steel'
+PRP Material_Thickness '0.15inch'
+PRP Mount 'Through Hole'
+PRP Number_of_Batteries '1'
+PRP Number_Of_Cells '1'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '100'
+PRP packaging 'Bulk'
+PRP Reach_SVHC_Compliant 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP series '-'
+PRP Termination 'PC Pin'
+PRP Thickness '0.015inch'
+TOP 0 11.88500036 28.70000102 270 N 22 15 1
+TOP 1 8.88500128 33.33500064 270 N 22 16 1
+TOP 2 8.88500128 24.0650014 270 N 22 17 1
+#
+# CMP 1
+CMP 8 12.0000014 16.00000102 270 N J1 594 ;0=2,1=0.5000
+PRP Body_Material 'Steel'
+PRP Body_Plating 'Tin'
+PRP Connector_Type 'Snap in'
+PRP Contact_Material 'Steel'
+PRP Contact_Plating 'Nickel'
+PRP Contact_Type 'Snap-In'
+PRP Gender 'Female'
+PRP Lead_Free 'Lead Free'
+PRP Length '9.65mm'
+PRP Material 'Steel'
+PRP Material_Thickness '0.15inch'
+PRP Mount 'Through Hole'
+PRP Number_of_Batteries '1'
+PRP Number_Of_Cells '1'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '100'
+PRP packaging 'Bulk'
+PRP Reach_SVHC_Compliant 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP series '-'
+PRP Termination 'PC Pin'
+PRP Thickness '0.015inch'
+TOP 0 8.88500128 11.3650014 270 N 2 1 1
+TOP 1 8.88500128 20.63500064 270 N 2 2 1
+TOP 2 11.88500036 16.00000102 270 N 2 3 1
+#
+# CMP 2
+CMP 17 37.465 41.783 0 N R4 68K ;0=1,1=0.7000
+PRP ComponentLink2Description 'DigiKey Link'
+PRP ComponentLink2URL 'https://www.digikey.com/en/products/detail/te-connectivity-passive-product/3430B2F68KTDF/17762904'
+PRP Composition 'Thick Film'
+PRP Device_Package '1206 (3216 Metric)'
+PRP Features 'Automotive AEC-Q200'
+PRP Height_-_Seated_(Max) '0.026_ (0.65mm)'
+PRP lastupdated '2/9/2024 8:52:42 PM'
+PRP Lifecycle_Status 'Active'
+PRP Manufacturer 'TE Connectivity Passive Product'
+PRP Minimum_Order '1'
+PRP Number_of_Terminations '2'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package_/_Case '1206 (3216 Metric)'
+PRP packaging 'TapeAndReel'
+PRP Part_Number '3430B2F68KTDF'
+PRP Part_Status 'Active'
+PRP partid '77735'
+PRP Power_(Watts) '1.5W'
+PRP price '0.07'
+PRP Ratings 'AEC-Q200'
+PRP Resistance '68 kOhms'
+PRP series '3430'
+PRP Size_/_Dimension '0.061_ L x 0.118_ W (1.55mm x 3.00mm)'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Device_Package '0612'
+PRP Supplier_Part_Number_1 '1712-3430B2F68KTDFCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP value '68 kOhms'
+TOP 0 38.86499974 41.783 270 N 12 0 1
+TOP 1 36.06500026 41.783 270 N 1 0 2
+#
+# CMP 3
+CMP 1 37.5000012 22.86 90 N C1 10000_pF ;0=1,1=0.8000
+PRP Applications 'Automotive, ESD Protection'
+PRP Capacitance '0.01µF'
+PRP componentlink1description 'Datasheet'
+PRP componentlink1url 'https://api.kemet.com/component-edge/download/datasheet/C1206C103KARECAUTO.pdf'
+PRP ComponentLink2Description 'DigiKey Link'
+PRP ComponentLink2URL 'https://www.digikey.com/en/products/detail/kemet/C1206C103KARECAUTO/8563702'
+PRP Device_Package '1206 (3216 Metric)'
+PRP lastupdated '6/4/2024 7:10:29 PM'
+PRP Lifecycle_Status 'Active'
+PRP Manufacturer 'KEMET'
+PRP Minimum_Order '1'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '1206 (3216 Metric)'
+PRP packaging 'TapeAndReel'
+PRP Part_Number 'C1206C103KARECAUTO'
+PRP Part_Status 'Active'
+PRP partid '20579'
+PRP price '0.03'
+PRP Ratings 'AEC-Q200'
+PRP series 'ESD SMD Auto X7R'
+PRP Size_/_Dimension '0.126_ L x 0.063_ W (3.20mm x 1.60mm)'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '399-17174-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.88mm)'
+PRP Tolerance '±10%'
+PRP value '10000 pF'
+PRP Voltage_-_Rated '250V'
+TOP 0 37.5000012 24.30999964 180 N 21 0 1
+TOP 1 37.5000012 21.41000036 180 N 20 0 2
+#

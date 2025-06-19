@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Bandgap Reference.PrjPcb]
+   Generated File[Bandgap Reference.TXT]
+   Generated File[Bandgap Reference.LDP]
+   Generated File[Bandgap Reference.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:18:12 PM On 6/19/2025

@@ -1,0 +1,37 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Bandgap Reference.PrjPcb]
+   Generated File[Bandgap Reference.GTO]
+   Generated File[Bandgap Reference.GTP]
+   Generated File[Bandgap Reference.GTS]
+   Generated File[Bandgap Reference.GTL]
+   Generated File[Bandgap Reference.G1]
+   Generated File[Bandgap Reference.G2]
+   Generated File[Bandgap Reference.GBL]
+   Generated File[Bandgap Reference.GBS]
+   Generated File[Bandgap Reference.GBP]
+   Generated File[Bandgap Reference.GBO]
+   Generated File[Bandgap Reference.GM1]
+   Generated File[Bandgap Reference.GM2]
+   Generated File[Bandgap Reference.GM5]
+   Generated File[Bandgap Reference.GM13]
+   Generated File[Bandgap Reference.GM15]
+   Generated File[Bandgap Reference.GM16]
+   Generated File[Bandgap Reference.GM20]
+   Generated File[Bandgap Reference.GM21]
+   Generated File[Bandgap Reference.GM23]
+   Generated File[Bandgap Reference.GM24]
+   Generated File[Bandgap Reference.GKO]
+   Generated File[Bandgap Reference.GPT]
+   Generated File[Bandgap Reference.GPB]
+   Generated File[Bandgap Reference.GD1]
+   Generated File[Bandgap Reference.GG1]
+   Generated File[Bandgap Reference.GM]
+   Generated File[Bandgap Reference.EXTREP]
+   Generated File[Bandgap Reference.REP]
+
+
+Files Generated   : 28
+Documents Printed : 0
+
+Finished Output Generation At 5:17:24 PM On 6/19/2025
