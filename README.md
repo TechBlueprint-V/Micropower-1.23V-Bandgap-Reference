@@ -107,7 +107,7 @@ The circuit schematic and PCB layout were designed using Altium Designer. Simula
 
 # Future Work
 - The PCB layout will be simulated using electromagnetic (EM) simulation tools such as ANSYS HFSS or CST Studio Suite to evaluate parasitics and signal integrity. 
-- A precision trimming circuit will be added to fine-tune the output voltage during production or calibration.
+- A precision trimming circuit will be added to fine-tune the output voltage during calibration.
 - ESD protection and other circuit-level protection features will be integrated to improve robustness and reliability in practical applications.
 
 # References
